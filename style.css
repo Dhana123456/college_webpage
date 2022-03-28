@@ -1,0 +1,36 @@
+/* .top{
+    padding:30px;
+    
+    /* padding: 100px; */
+    /* text-align: center; */
+    background-color: red;
+    height:150px
+}
+
+.top_image{
+    float:left;
+    
+}
+
+.header{
+    float:Center
+    /* padding-right:400px; */
+    /* padding-top:50px; */
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top:50px;
+    text-align:center;
+}
+
+.college_logo{
+    float:right;
+    /* margin-bottom:px; */
+}
+
+td tablea{
+    align-text: center;
+} */
+
+table{
+    background-color:red;
+}
